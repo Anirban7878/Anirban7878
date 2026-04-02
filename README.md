@@ -3,9 +3,9 @@
 </h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FF41" /></a>
+  <a href="https://www.linkedin.com/in/pappu-das-a6334a319"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FF41" /></a>
   &nbsp;
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00FF41" /></a>
+  <a href="mailto:drdoanirban@gmail.com"><img src="https://img.shields.io/badge/Gmail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00FF41" /></a>
 </p>
 
 <p align="center">
@@ -76,6 +76,14 @@
 
 ---
 
+## 🏅 Certifications
+
+| 🏢 Organization | 📜 Program | 🔖 Certificate No. |
+|---|---|---|
+| **DROP Organization** | Cyber Security & Ethical Hacking Training · DCSC | `DCSC-PDJD0923` |
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -106,11 +114,10 @@
 
 <p align="center">
   <b>🟢 Open to Internships · Freelance Security Work · CTF Collaborations</b><br/><br/>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/Let's%20Connect-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FF41" /></a>
+  <a href="https://www.linkedin.com/in/pappu-das-a6334a319"><img src="https://img.shields.io/badge/Let's%20Connect-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FF41" /></a>
   &nbsp;
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Send%20an%20Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00FF41" /></a>
+  <a href="mailto:drdoanirban@gmail.com"><img src="https://img.shields.io/badge/Send%20an%20Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00FF41" /></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=80&section=footer&fontColor=00FF41" />
-</p>
+  <img src="https://capsule-render.verce
