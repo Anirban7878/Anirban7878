@@ -33,6 +33,12 @@
 
 ## 🛡️ Skills & Knowledge Base
 
+### 💻 Programming & Database
+![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python&logoColor=00FF41)
+![c](https://img.shields.io/badge/C-0A0A0A?style=for-the-badge&logo=c&logoColor=00FF41)
+![c++](https://img.shields.io/badge/C++-0A0A0A?style=for-the-badge&logo=c%2B%2B&logoColor=00FF41)
+![MySQL](https://img.shields.io/badge/MySQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=00FF41)
+
 ### 🌐 Networking & Protocols
 ![OSI Model](https://img.shields.io/badge/OSI%20Model-0A0A0A?style=for-the-badge&logoColor=00FF41&logo=cisco)
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-0A0A0A?style=for-the-badge&logoColor=00FF41&logo=cisco)
