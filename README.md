@@ -24,6 +24,7 @@
   Role        : Network Security Enthusiast
   Education   : BCA (2024–2027)
   Focus       : Network Defense · Ethical Hacking · Threat Analysis
+  Currently   : Building networking projects using Python and learning DSA in C++
   Interests   : ["Packet Analysis", "Pentesting", "CTFs", "SOC"]
   Open To     : Internships · Freelance · CTF Teams · Collaborations
   Status      : Learning. Breaking. Defending. 🔐
