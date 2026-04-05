@@ -6,7 +6,8 @@
   <a href="https://www.linkedin.com/in/pappu-das-a6334a319"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FF41" /></a>
   &nbsp;
   <a href="mailto:drdoanirban@gmail.com"><img src="https://img.shields.io/badge/Gmail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00FF41" /></a>
-  <a href="https://github.com/Anirban7878/Bank_management_system.git"></a>
+  <a href="https://github.com/Anirban7878/Bank_management_system.git"><img src="https://img.shields.io/badge/Bank%20Management%20System-0A0A0A?style=for-the-badge&logo=github&logoColor=00FF41" />
+</a>
 </p>
 
 <p align="center">
