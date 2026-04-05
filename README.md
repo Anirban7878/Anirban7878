@@ -8,23 +8,6 @@
   <a href="mailto:drdoanirban@gmail.com"><img src="https://img.shields.io/badge/Gmail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00FF41" /></a>
 </p>
 
----
-
-## 🛠️ Projects
-
-### <a href="https://github.com/Anirban7878/Bank_management_system.git">💳 Bank Management System</a>
-A comprehensive project demonstrating secure handling of banking operations.
-
-- 🔐 Focused on **security-first design** for transactions and data storage.  
-- 🏦 Implements account creation, deposit/withdrawal, and balance inquiry features.  
-- 📊 Built with modular code structure for scalability and maintainability.  
-
-#### 🔧 Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/C-0A0A0A?style=for-the-badge&logo=c&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/MySQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=00FF41" />
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pappudas&label=Profile+Views&color=00FF41&style=flat-square" />
 </p>
