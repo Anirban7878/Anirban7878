@@ -7,7 +7,7 @@
   &nbsp;
   <a href="mailto:drdoanirban@gmail.com"><img src="https://img.shields.io/badge/Gmail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00FF41" /></a>
   <a href="https://github.com/Anirban7878?tab=repositories">
-  <img src="https://img.shields.io/badge/All%20Projects-0A0A0A?style=for-the-badge&logo=github&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Projects-0A0A0A?style=for-the-badge&logo=github&logoColor=00FF41" />
 </a>
 </p>
 
