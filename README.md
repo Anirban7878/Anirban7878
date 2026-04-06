@@ -58,7 +58,6 @@
 ![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-0A0A0A?style=for-the-badge&logoColor=00FF41&logo=paloaltonetworks)
 ![MITM](https://img.shields.io/badge/MITM%20Attacks-0A0A0A?style=for-the-badge&logoColor=00FF41&logo=hackthebox)
 ![DDoS](https://img.shields.io/badge/DDoS%20Concepts-0A0A0A?style=for-the-badge&logoColor=00FF41&logo=cloudflare)
-![Packet Sniffing](https://img.shields.io/badge/Packet%20Sniffing-0A0A0A?style=for-the-badge&logoColor=00FF41&logo=wireshark)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-0A0A0A?style=for-the-badge&logo=burpsuite&logoColor=00FF41)
 
 ### 🧰 Tools & Platforms
