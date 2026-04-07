@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/pappu-das-a6334a319"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FF41" /></a>
   &nbsp;
   <a href="mailto:drdoanirban@gmail.com"><img src="https://img.shields.io/badge/Gmail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00FF41" /></a>
-  <a href= target="_blank">
+  <a href="https://portfolio-three-swart-35.vercel.app" target="_blank"><i class='bx bx-globe'></i>
   <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=react&logoColor=00FF41" />
 </a>
 </p>
