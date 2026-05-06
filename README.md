@@ -97,13 +97,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+  <!-- 🔥 GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Anirban7878&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0A0A0A&title_color=00FF41&icon_color=00FF41&cache_seconds=1800" height="180px"/>
-  
+
+  <!-- 💻 Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anirban7878&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0A0A0A&title_color=00FF41&cache_seconds=1800" height="180px"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Anirban7878&theme=chartreuse-dark&hide_border=true&background=0A0A0A&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
+  <!-- 🔥 CONTRIBUTION GRAPH (BEST ALTERNATIVE) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anirban7878&theme=github-dark&bg_color=0A0A0A&color=00FF41&line=00FF41&point=FFFFFF&hide_border=true" />
 </p>
 
 ---
