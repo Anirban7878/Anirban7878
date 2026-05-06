@@ -96,15 +96,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anirban7878&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0A0A0A&title_color=00FF41&icon_color=00FF41" height="180px"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anirban7878&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0A0A0A&title_color=00FF41" height="180px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anirban7878&theme=github_dark" />
-</p>
+<p align="center"> <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anirban7878&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0A0A0A&title_color=00FF41&icon_color=00FF41" height="180px"/> <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anirban7878&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0A0A0A&title_color=00FF41" height="180px"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anirban7878&theme=chartreuse-dark&hide_border=true&background=0A0A0A&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" /> </p>
 
 ---
 
